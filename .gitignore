@@ -102,5 +102,7 @@ examples/CustomKeyboardKitBasic/*/fastlane/screenshots
 
 # Bundle artifact
 examples/CustomKeyboardKitBasic/*.jsbundle
+android/build
+react-native-custom-keyboard-kit.iml
 
 /For new version
