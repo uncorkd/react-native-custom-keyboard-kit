@@ -1,8 +1,7 @@
 
-#import <React/RCTRootView.h>
 #import "RNCustomKeyboardKit.h"
-#import "RCTBridge+Private.h"
-#import "RCTUIManager.h"
+#import "React/RCTBridge+Private.h"
+#import "React/RCTUIManager.h"
 #import <React/RCTSinglelineTextInputView.h>
 
 @implementation RNCustomKeyboardKit
