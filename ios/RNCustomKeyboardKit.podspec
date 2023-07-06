@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage     = package['homepage']
 
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/uncorkd/react-native-custom-keyboard-kit.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/uncorkd/react-native-custom-keyboard-kit.git" }
   s.source_files = "ios/**/*.{h,m}"
   s.requires_arc = true
 
