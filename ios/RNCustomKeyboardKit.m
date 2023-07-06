@@ -3,7 +3,7 @@
 #import "RNCustomKeyboardKit.h"
 #import "RCTBridge+Private.h"
 #import "RCTUIManager.h"
-#import <RCTText/RCTSinglelineTextInputView.h>
+#import <React/RCTSinglelineTextInputView.h>
 
 @implementation RNCustomKeyboardKit
 
